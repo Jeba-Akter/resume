@@ -1,0 +1,248 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    width: 100%;
+    margin: auto;
+    font-family: inter;
+    
+}
+header
+.navber{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+header
+.navber h3{
+    padding: 10px 20px;
+    border: 2px solid green;
+}
+.banner-section {
+    font-family: inter;
+    width: 100%;
+    height: 700px;
+    background-image: url(./assets/Hero-bg.png);
+    }
+.banner-section .img{
+    margin: auto;
+    width: 30%;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-bottom: 30px;
+    /* border: 2px solid green; */
+
+
+}
+
+.content{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+.banner-section
+.content h3{
+    width: 40%;
+    margin:20px auto;
+    padding: 10px 0px;
+    border: none;
+    border: 2px solid ;
+    background: #000;
+    color: beige;
+}
+.content-1{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: inter;
+}
+.container{
+    font-family: inter;
+    width: 60%;
+    margin: auto;
+    /* align-items: center; */
+    justify-content: space-between;
+    display: flex;
+
+}
+.container
+.content-2{
+    padding-top: 30px;
+    width: 60%;
+}
+.container-3
+.content-3{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: inter;
+}
+.container-3{
+    /* width: 80%; */
+    margin: auto;
+}
+.container-3
+.video-section{
+    border: 2px solid gray;
+    border-radius: 15px;
+    padding: 15px;
+    width: 1000px;
+    margin: 20px auto;
+}
+.content-4{
+    width: 60%;
+    margin: 30px auto;
+    text-align: center;
+    font-family: inter;
+
+}
+.container-4{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    font-family: inter;
+    justify-content: space-between;
+}
+.flex-section{
+    font-family: inter;
+    width: 30%;
+    height: 300px;
+    align-items: center;
+}
+.flex-section
+.img{
+    padding: 20px;
+}
+.sec-1{
+    background-color: rgb(235, 215, 186);
+}
+.sec-2{
+    background: #d8b3b3;
+}
+.sec-3{
+    background-color: bisque;
+}
+.content-section
+{
+    padding: 20px ;
+}
+.btn{
+    padding: 20px 0px 20px 0px;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.content-5{
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+}
+.flex-section-2{
+    padding-left: 20px;
+    font-family: inter;
+    border: 2px solid grey;
+    width: 80%;
+    /* height: 180px; */
+    border-radius: 10px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.content-6 {
+    padding:  10px 0px 0px 40px;
+}
+.content-6
+h2{
+    padding-bottom: 20px;
+}
+.container-7{
+    font-family: inter;
+    background-image: url(./assets/handshake.jpg);
+    padding: 0px 10px;
+    border-radius: 14px;
+    width: 80%;
+    color: beige;
+    height: 250px;
+    background-position: center;
+    text-align: center;
+    /* height: 700px; */
+    margin: auto;
+}
+.content-7{
+   padding-top: 50px;
+}
+.content-7 
+h2{
+    padding-bottom: 30px;
+}
+.input-section{
+    padding-top: 30px;
+    /* font-size: 50px; */
+
+}
+.input-section
+input{
+    border: none;
+    font-size: 20px;
+    padding: 10px 200px 10px 20px;
+}
+.input-section
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 700px;
+    color: #000;
+}
+.container-8{
+    font-family: inter;
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 2px solid green; */
+}
+.container-8
+.content{
+    /* border: 2px solid green; */
+    text-align: left;
+    margin-left: 0%;
+
+
+}
+
+.icon-section{
+    /* border: 2px solid green; */
+
+    display: flex;
+    padding: 20px;
+}
+.icon-section
+.icon-1{
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
